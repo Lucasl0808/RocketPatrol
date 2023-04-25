@@ -13,5 +13,5 @@ let keyF, keyR, keyLEFT, keyRIGHT;
 let borderUISize = game.config.height / 15;
 let borderPadding = borderUISize /3;
 
-//define global high score
+//define global high scores
 let p1highScore = 0;
